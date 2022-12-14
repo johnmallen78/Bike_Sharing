@@ -5,8 +5,7 @@ We were tasked with analyzing and creating a visualization of the bike sharing d
 
 ## Analysis
 
-This link will take you to the full Tableau story.
-[link to dashboard](https://public.tableau.com/app/profile/john.allen6982/viz/Bike_Sharing_16710359722870/Bike_Sharing?publish=yes)
+[This link will take you to the full Tableau story](https://public.tableau.com/app/profile/john.allen6982/viz/Bike_Sharing_16710359722870/Bike_Sharing?publish=yes)
 
 ### Checkout Times for All Users
 ![Alt text](images/Checkout_Times.png)
